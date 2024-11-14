@@ -9,13 +9,13 @@
 
 ## Создание локальной сети
 1. С помощью приложения Virtual Box создадим локальную сеть NAT:
-2. 
+   
 ![image](https://github.com/user-attachments/assets/9dd3edba-c183-4403-8e1b-83ab663b6d1d)
 
 ![image](https://github.com/user-attachments/assets/708aadfe-cfc8-4aa2-b2b0-3ff2e5060d5c)
 
-4. Затем в настройках каждой виртуальной машины добавим созданную сеть:
-5. 
+2. Затем в настройках каждой виртуальной машины добавим созданную сеть:
+   
 ![image](https://github.com/user-attachments/assets/48c08cac-876c-4f74-b1d7-0b75cc5a86e2)
 
 ## Проверка доступа
