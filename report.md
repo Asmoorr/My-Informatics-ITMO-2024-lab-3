@@ -24,7 +24,7 @@
    
    ![image](https://github.com/user-attachments/assets/9d89bdab-0657-4169-a3db-959fd4ca72ba)
    
-   *10.0.4.7`*
+   *10.0.4.7*
 2. Командой `ping` попробуем подключиться к машине Б
    
    ![image](https://github.com/user-attachments/assets/ac8bc52b-f6aa-48fb-892f-a79257894c96)
